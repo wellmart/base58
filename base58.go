@@ -54,6 +54,7 @@ var (
 	}
 )
 
+// EncodeToString returns the base64 encoded string of bytes.
 func EncodeToString(input []byte) (output string) {
 	numbers := new(big.Int).SetBytes(input)
 
@@ -67,6 +68,7 @@ func EncodeToString(input []byte) (output string) {
 	return
 }
 
+// DecodeString returns the bytes by the base64 string.
 func DecodeString(input string) (output []byte, e error) {
 	var i int
 
