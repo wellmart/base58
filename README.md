@@ -24,7 +24,7 @@ bytes := base58.DecodeString(value)
 
 ## Staying up to date
 
-To update Restserv to the latest version, use `go get -u github.com/wellmart/base58`.
+To update Base58 to the latest version, use `go get -u github.com/wellmart/base58`.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
