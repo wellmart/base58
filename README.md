@@ -28,8 +28,8 @@ package main
 import "github.com/wellmart/base58"
 
 func main() {
-  value := base58.EncodeToString(byte[]("Hello World"))
-  bytes := base58.DecodeString(value)
+    value := base58.EncodeToString(byte[]("Hello World"))
+    bytes := base58.DecodeString(value)
 }
 ```
 
