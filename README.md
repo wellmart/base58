@@ -7,7 +7,7 @@
 [![Software License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 [![GoDoc](https://godoc.org/github.com/wellmart/base58?status.svg)](https://godoc.org/github.com/wellmart/base58)
 
-Represent large integers as alphanumeric text, it is similar to Base64 but has been modified to avoid both non-alphanumeric characters and letters which might look ambiguous when printed.
+Represent large integers as alphanumeric text, it is similar to Base 64 but has been modified to avoid both non-alphanumeric characters and letters which might look ambiguous when printed.
 
 ## Requirements
 
@@ -15,7 +15,7 @@ Go 1.1 and beyond.
 
 ## Installation
 
-Use the go package manager to install Base58.
+Use the go package manager to install Base 58.
 
 ```bash
 go get github.com/wellmart/base58
@@ -36,7 +36,7 @@ func main() {
 
 ## Staying up to date
 
-To update Base58 to the latest version, use `go get -u github.com/wellmart/base58`.
+To update Base 58 to the latest version, use `go get -u github.com/wellmart/base58`.
 
 ## License
 
