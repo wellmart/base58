@@ -1,4 +1,4 @@
-# Base 58
+# Base58
 
 [![Build Status](https://travis-ci.org/wellmart/base58.svg?branch=master)](https://travis-ci.org/wellmart/base58)
 [![Go Report Card](https://goreportcard.com/badge/github.com/wellmart/base58)](https://goreportcard.com/report/github.com/wellmart/base58)

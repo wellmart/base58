@@ -1,5 +1,5 @@
 //
-//  Base 58
+//  Base58
 //
 //  Copyright (c) 2020 Wellington Marthas
 //
