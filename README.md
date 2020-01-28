@@ -15,7 +15,7 @@ Go 1.1 and beyond.
 
 ## Installation
 
-Use the go package manager to install Base 58.
+Use the go package manager to install Base58.
 
 ```bash
 go get github.com/wellmart/base58
@@ -36,7 +36,7 @@ func main() {
 
 ## Staying up to date
 
-To update Base 58 to the latest version, use `go get -u github.com/wellmart/base58`.
+To update Base58 to the latest version, use `go get -u github.com/wellmart/base58`.
 
 ## License
 
